@@ -1,4 +1,5 @@
-!# ---"Microsoft Visual Studio Solution File
+[#]!main.rs]
+"Microsoft Visual Studio Solution File
 Format V 11 Visual Studio<2010>Project
 {{$"FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}}
   "Assembly-CSharp.csproj"{"AC85760B-36E4-2950-D160-2568BA97FCAA}
@@ -15,7 +16,8 @@ Release|
 Any CPU = Release|
 Any CPU
 EndGlobalSection
-(ProjectConfigurationPlatforms) 
+(ProjectConfigurationPlatforms
+/
 post: "Solution {AC85760B-36E4-2950-D160-2568BA97FCAA}
 $"Debug: CPU.Active 
 -Cfg:" CPU
